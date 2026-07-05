@@ -1,5 +1,10 @@
 # gunchi-bridge
 
+[![Total downloads](https://img.shields.io/github/downloads/Tomogunchi/gunchi-bridge/total?label=downloads&color=success)](https://github.com/Tomogunchi/gunchi-bridge/releases)
+[![Stars](https://img.shields.io/github/stars/Tomogunchi/gunchi-bridge?style=flat)](https://github.com/Tomogunchi/gunchi-bridge/stargazers)
+[![Issues](https://img.shields.io/github/issues/Tomogunchi/gunchi-bridge)](https://github.com/Tomogunchi/gunchi-bridge/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Tomogunchi/gunchi-bridge)](https://github.com/Tomogunchi/gunchi-bridge/commits)
+
 A lightweight compatibility layer for Gunchi. It auto-detects
 the framework, inventory, target, notify, dispatch, vehicle key and fuel
 systems a server runs and exposes a single, stable API so the same script
